@@ -15,7 +15,7 @@ ReactDOM.render(
     </div>
 
     <div className="h-screen w-screen absolute -z-40 bg-gray-900" />
-    <div id="dash-backend-bg" className="h-screen w-screen absolute -z-30 delay-500 transition-all opacity-0 backdrop-blur-lg" style={{ backgroundImage: "url(https://source.unsplash.com/1920x1080)" }} />
+    <div id="dash-backend-bg" className="h-screen w-screen absolute -z-30 delay-500 transition-all opacity-0 backdrop-blur-lg" style={{ backgroundImage: "url(https://source.unsplash.com/3840x2160/?city)" }} />
     <div className="h-screen w-screen absolute -z-20 backdrop-blur-lg" />
     <Core />
   </React.StrictMode>,
