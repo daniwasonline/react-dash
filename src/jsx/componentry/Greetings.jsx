@@ -68,7 +68,7 @@ export default function Greetings() {
             { showSettingsPanel ? <Settings /> : null }
             <h1 className="font-BreezeHeader text-white font-bold text-4xl">
                 Good {timeOfDayGreeting},
-                <b className="text-green-300"> Danny. </b>
+                <b className="text-green-300"> Dani. </b>
                 <button onClick={() => {
                     toggleSettingsPanel(!showSettingsPanel);
                 }}>
